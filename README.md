@@ -39,3 +39,7 @@ Clone the project and install dependencies:
 ```
 npm install
 ```
+### Running the Project
+```
+node server.js
+```
