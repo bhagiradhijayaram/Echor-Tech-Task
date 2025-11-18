@@ -69,7 +69,7 @@ Response
   "reversed_sentence": "Node.js and JavaScript with working love I"
 }
 ```
-### ❗ Error Handling
+### Error Handling
 
 If no sentence is provided
 ```
