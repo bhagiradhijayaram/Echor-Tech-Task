@@ -72,3 +72,8 @@ Response
 ### ❗ Error Handling
 
 If no sentence is provided
+```
+{
+  "error": "Sentence is required and must be a string"
+}
+```
