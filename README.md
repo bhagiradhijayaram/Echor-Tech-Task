@@ -53,3 +53,19 @@ Request Body
   "sentence": "I love working with JavaScript and Node.js"
 }
 ```
+Response
+```
+{
+  "word_count": 7,
+  "unique_words": [
+    "i",
+    "love",
+    "working",
+    "with",
+    "javascript",
+    "and",
+    "node.js"
+  ],
+  "reversed_sentence": "Node.js and JavaScript with working love I"
+}
+```
