@@ -29,3 +29,10 @@ project/
     └── utils/
         └── stringUtils.js
 ```
+### Technologies Used
+
+- Node.js
+
+- Express.js
+
+- ES Modules (import/export)
