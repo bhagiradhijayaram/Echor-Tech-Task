@@ -77,3 +77,9 @@ If no sentence is provided
   "error": "Sentence is required and must be a string"
 }
 ```
+If body is missing completely
+```
+{
+  "error": "Invalid or missing JSON body"
+}
+```
