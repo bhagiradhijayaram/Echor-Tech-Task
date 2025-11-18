@@ -43,3 +43,12 @@ npm install
 ```
 node server.js
 ```
+### API Endpoint
+
+POST /api/transform
+Request Body
+```
+{
+  "sentence": "I love working with JavaScript and Node.js"
+}
+```
