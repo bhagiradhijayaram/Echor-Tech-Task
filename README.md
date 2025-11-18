@@ -1,4 +1,4 @@
-## 🚀 Transform Sentence API
+## Transform Sentence API
 
 A simple Node.js + Express API that takes a sentence and returns:
 
@@ -10,7 +10,7 @@ A simple Node.js + Express API that takes a sentence and returns:
 
 This project uses ES Modules, and a clean MVC folder structure.
 
-### Folder
+### Folder Structure
 ```
 project/
 │── package.json
