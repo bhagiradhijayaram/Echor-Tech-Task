@@ -32,3 +32,10 @@ project/
 - Node.js
 - Express.js
 - ES Modules (import/export)
+
+### Installation
+
+Clone the project and install dependencies:
+```
+npm install
+```
